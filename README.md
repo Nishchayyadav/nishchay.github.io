@@ -1,7 +1,3 @@
-Certainly! Here's a sample README file for your portfolio:
-
----
-
 # Nishchay Yadav's Portfolio
 
 Welcome to my portfolio! This repository showcases my projects, skills, and contact information.
