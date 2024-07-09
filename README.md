@@ -34,6 +34,6 @@ Implemented a Linux shell in C with process and thread management.
 
 ## Contact
 
-- LinkedIn: [Nishchay Yadav](https://www.linkedin.com/in/nishchay-yadav/)
+- LinkedIn: [Nishchay Yadav](https://www.linkedin.com/in/nishchay-yadav-878037256/)
 - Email: nishchayy11@gmail.com
 - GitHub: [Nishchayyadav](https://github.com/Nishchayyadav)
